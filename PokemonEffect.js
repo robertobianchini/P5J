@@ -18,5 +18,6 @@ function draw() {
     const b    = random(0, 256);
     fill(r, g, b);
     ellipse(px, py, raio, raio);
+    
   }
 }
