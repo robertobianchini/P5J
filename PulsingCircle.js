@@ -5,6 +5,7 @@ let minR;
 let maxR;
 let vx;
 
+
 function setup() {
   createCanvas(600, 400);
   background(0);
@@ -17,6 +18,7 @@ function setup() {
   minR = 50;
   maxR = 300; 
 }
+
 
 function draw() {
   background(0);
