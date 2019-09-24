@@ -1,4 +1,4 @@
-// Original P4J example: https://p5js.org/examples/structure-recursion.html
+// Original P5J example: https://p5js.org/examples/structure-recursion.html
 
 function setup() {
   createCanvas(720, 400);
