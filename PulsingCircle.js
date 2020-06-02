@@ -24,7 +24,7 @@ function draw() {
   background(0);
   ellipse(px, py, r, r);
   r += vx;
-  if (r > maxR || raio < minR) {
+  if (r > maxR || r < minR) {
     vx *= (-1);
   }
 }
